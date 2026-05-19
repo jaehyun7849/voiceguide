@@ -1,0 +1,11 @@
+.worktrees/
+.gradle/
+.gradle-user-home/
+.kotlin/
+.idea/
+app/.idea/
+build/
+app/build/
+local.properties
+app/local.properties
+*.pt
